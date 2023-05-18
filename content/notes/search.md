@@ -1,7 +1,7 @@
 ---
 title: "Search"
 ---
-POOPYBUTT
+POOPYBUTT POOP POOP POOP AGAIN!!
 
 Quartz supports two modes of searching through content.
 
