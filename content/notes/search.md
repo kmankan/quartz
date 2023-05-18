@@ -1,6 +1,8 @@
 ---
 title: "Search"
+enableToc: false
 ---
+POOPYBUTT
 
 Quartz supports two modes of searching through content.
 
