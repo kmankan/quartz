@@ -1,6 +1,5 @@
 ---
 title: "Search"
-enableToc: false
 ---
 POOPYBUTT
 
